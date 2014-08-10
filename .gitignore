@@ -1,0 +1,6 @@
+*.kdev*
+*.cmake
+*.cache
+backup
+build
+build2
